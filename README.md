@@ -1,4 +1,4 @@
-## Olá! Eu sou o Luiz Henrique !! 
+## Olá! Me chamo Luiz Henrique, venha conhecer meu perfil ✋ !! 
 <div>
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lhchoinski&show_icons=true&theme=dracula&locale=pt-br&hide=issues" />
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lhchoinski&layout=compact&locale=pt-br&theme=dracula" />
