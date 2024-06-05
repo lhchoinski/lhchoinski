@@ -25,7 +25,7 @@
 
 
 [![AZURE](https://img.shields.io/badge/Microsoft_Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white)](#)
-[![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazon%20aws&logoColor=orange)](#)
+[![AWS](https://img.shields.io/badge/AWS-white?style=for-the-badge&logo=amazon%20web%20services&logoColor=orange)](#)
 [![DOCKER](https://img.shields.io/badge/Docker-20232A?style=for-the-badge&logo=docker&logoColor=61DAFB)](#)
 
 
