@@ -20,6 +20,7 @@
 
 [![MONGO](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
 [![MYSQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=orange)](#)
+[![POSTGRESQL](https://img.shields.io/badge/PostgreSQL-4682B4?style=for-the-badge&logo=PostgreSQL&logoColor=white)](#)
 [![SQLITE](https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white)](#)
 [![COSMOS](https://img.shields.io/badge/CosmosDB-00CED1?style=for-the-badge&logo=saturn&logoColor=white)](#)
 
