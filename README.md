@@ -2,7 +2,7 @@
 
 ### Redes Sociais 📱
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-choinski-dos-santos-a4595022b/)
-[![GMAIL](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red)](lhchoinski04@gmail.com)
+[![GMAIL](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lhchoinski04@gmail.com)
 
 ### Tecnologias utilizadas ⚡
 
