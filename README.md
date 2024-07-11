@@ -1,9 +1,10 @@
 ## Olá! Me chamo Luiz Henrique, venha conhecer meu perfil ✋ !! 
 
-### Redes Sociais
+### Redes Sociais 📱
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-choinski-dos-santos-a4595022b/)
+[![GMAIL](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red)](lhchoinski04@gmail.com)
 
-### Tecnologias utilizadas
+### Tecnologias utilizadas ⚡
 
 [![HTML](https://img.shields.io/badge/HTML-B22222?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-4169E1?&style=for-the-badge&logo=css3&logoColor=white)](#)
