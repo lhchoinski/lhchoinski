@@ -1,7 +1,7 @@
 ## Olá! Me chamo Luiz Henrique, venha conhecer meu perfil ✋ !! 
 
 ### Redes Sociais
-[![LINKEDIN](https://img.shields.io/badge/LinkedIn-white?style=flat&logo=linkedin&color=0E76A8&link=https%3A%2F%2Fwww.linkedin.com%2Fin%2Fluiz-henrique-choinski-dos-santos-a4595022b%2F)](#)
+[![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-choinski-dos-santos-a4595022b/)
 
 ### Tecnologias utilizadas
 
