@@ -5,7 +5,7 @@
 ### Tecnologias mais utilizadas ⚡
 
 [![HTML](https://img.shields.io/badge/HTML-B22222?style=for-the-badge&logo=html5&logoColor=white)](#)
-[![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css3&logoColor=white)](#)
+[![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css&logoColor=white)](#)
 [![ANGULAR](https://img.shields.io/badge/Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)](#)
 [![REACT](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)](#)
 [![VUE](https://img.shields.io/badge/Vue-black?style=for-the-badge&logo=vue.js&logoColor=4FC08D)](#)
@@ -13,7 +13,7 @@
 [![NODE](https://img.shields.io/badge/Node.js-5FA04E?style=for-the-badge&logo=node.js&logoColor=white)](#)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![TS](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](#)
-[![.NET](https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=.net&logoColor=white)](#)
+[![PYTHON](https://img.shields.io/badge/PYTHON-4584b6?style=for-the-badge&logo=python&logoColor=white)](#)
 [![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=sharp&logoColor=white)](#)
 [![JAVA - SPRING](https://img.shields.io/badge/Java-orange?style=for-the-badge&logo=openjdk&logoColor=white)](https://openjdk.java.net/)
 [![SPRING - JAVA](https://img.shields.io/badge/Spring-white?style=for-the-badge&logo=spring&logoColor=green)](https://spring.io/)
