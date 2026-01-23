@@ -1,8 +1,8 @@
-### Redes Sociais 📱
+### Social Media 📱
 [![LINKEDIN](https://img.shields.io/badge/LINKEDIN-0E76A8?style=for-the-badge&logo=linkednn&logoColor=white)](https://www.linkedin.com/in/luiz-henrique-choinski-dos-santos-a4595022b/)
 [![GMAIL](https://img.shields.io/badge/GMAIL-white?style=for-the-badge&logo=gmail&logoColor=red)](mailto:lhchoinski04@gmail.com)
 
-### Tecnologias mais utilizadas ⚡
+### Most commonly used technologies ⚡
 
 [![HTML](https://img.shields.io/badge/HTML-B22222?style=for-the-badge&logo=html5&logoColor=white)](#)
 [![CSS](https://img.shields.io/badge/CSS-1572B6?&style=for-the-badge&logo=css&logoColor=white)](#)
